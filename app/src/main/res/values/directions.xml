@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="startPositions">
+        <item>up</item>
+        <item>up-right</item>
+        <item>right</item>
+        <item>bottom-right</item>
+        <item>bottom</item>
+        <item>bottom-left</item>
+        <item>left</item>
+        <item>up-left</item>
+    </string-array>>
+</resources>
